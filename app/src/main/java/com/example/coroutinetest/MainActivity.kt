@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
-        val k= "this is line no 4 from second brach "
+        val k= "this is the line from the fork  "
 
 
 
